@@ -20,7 +20,7 @@ class _Layouting3State extends State<Layouting3> {
           color: Colors.white,
           boxShadow: [
             BoxShadow(
-              color: Colors.grey,
+              color: Colors.blue,
               spreadRadius: 2,
               blurRadius: 8,
               offset: Offset.fromDirection(150),
