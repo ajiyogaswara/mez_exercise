@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mez_exercise/layout/layouting_3.dart';
-import 'package:mez_exercise/layout/layouting_3.dart';
+import 'package:mez_exercise/functions/function_1.dart';
 
 class AppWidget extends StatelessWidget {
   @override
@@ -10,7 +9,7 @@ class AppWidget extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Layouting3(),
+      home: Function1(),
     );
   }
 }
