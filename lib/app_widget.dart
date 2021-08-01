@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mez_exercise/functions/function_1.dart';
+import 'package:mez_exercise/image/image_2.dart';
 
 class AppWidget extends StatelessWidget {
   @override
@@ -9,7 +9,7 @@ class AppWidget extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Function1(),
+      home: Image2(),
     );
   }
 }
