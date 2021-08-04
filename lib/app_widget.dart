@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mez_exercise/image/image_2.dart';
+import 'package:mez_exercise/list_function/mapping_image_1.dart';
 
 class AppWidget extends StatelessWidget {
   @override
@@ -9,7 +9,7 @@ class AppWidget extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Image2(),
+      home: MappingImage1(),
     );
   }
 }
